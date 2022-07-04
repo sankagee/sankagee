@@ -7,7 +7,7 @@
 - 📫 How to reach me ...
 - 
 -![Sanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankagee&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api?username=sankagee&show_icons=true&theme=Gradient" width="400">
+
 <!---
 sankageethanjana/sankageethanjana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
