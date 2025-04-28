@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanka Geethanjana</h1>
 <h3 align="center">A Passionate About Coding and Willingness to Learn</h3>
 
-- 👨‍💻 All of my projects are available at [sankageethanjana.000webhostapp.com/](sankageethanjana.000webhostapp.com/)
-
 - 📫 How to reach me **snkgeethanjana97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
